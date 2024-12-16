@@ -1,1 +1,2 @@
-# Traffic-Signal-Controller-using-FSM-
+Traffic Signal Controller Using FSM :
+Developed a traffic signal controller using a finite state machine (FSM) prioritizing the main highway, where traffic is consistently present (default signal: green). A sensor on the country road detects the presence of vehicles, triggering a signal change to green for the country road when needed. Incorporated delays in transitions between yellow to red and red to green signals for smooth and safe operation.
